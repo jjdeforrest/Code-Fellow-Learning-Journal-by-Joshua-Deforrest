@@ -3,7 +3,7 @@
 ![cyborg-sci-fi-uhdpaper com-4K-119](https://user-images.githubusercontent.com/41346809/67643706-9f4d6600-f8f0-11e9-8e28-93b7603e987a.jpg)
 
 ### Link to GitHub Profile
-[My Github profile](github.com/jjdeforrest)
+[My Github profile](https://github.com/jjdeforrest)
 
 
 #### Table of Contents
