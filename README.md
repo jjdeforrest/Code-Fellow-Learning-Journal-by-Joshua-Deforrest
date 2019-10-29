@@ -19,5 +19,7 @@
 
 # 6.[Dynamic web pages with JavaScript](https://github.com/jjdeforrest/Code-Fellow-Learning-Journal-by-Joshua-Deforrest/wiki/Dynamic-web-pages-with-JavaScript)
 
+# 7.[Computer Architecture and Logic](https://github.com/jjdeforrest/Code-Fellow-Learning-Journal-by-Joshua-Deforrest/wiki/Computer-Architecture-and-Logic)
+
 ### About Me
 Name is Joshua Deforrest from Charleston, South Carolina. Have been pursuing a opportunity like this apprenticeship for many years. Extremely grateful that it just happens to be with a very good company with lots of opportunities.
